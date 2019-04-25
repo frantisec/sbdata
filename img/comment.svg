@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>comment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M0.5,0 L11.5,-1.11022302e-16 C11.7761424,-1.61748834e-16 12,0.223857625 12,0.5 L12,9 L12,12 L8,9 L0.5,9 C0.223857625,9 3.38176876e-17,8.77614237 0,8.5 L0,0.5 C-3.38176876e-17,0.223857625 0.223857625,5.07265313e-17 0.5,0 Z" id="comment" fill="#6B7883"></path>
+    </g>
+</svg>

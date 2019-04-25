@@ -1,0 +1,73 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Users</title>
+        <link rel="stylesheet" href="style.css" media="all">
+    </head>
+    <body>
+
+
+
+         <div class="navi">
+            <a href="home.html"><img src="../img/sblogo.svg" /></a>
+            <select id="touchsplashmenu" onchange="location.href=this.value">
+                <option value="home.html">Home</option>
+                <option value="fake.html">Fake Profiles</option>
+                <option value="real.html">Real Profiles</option>
+                <option value="users.html">Users</option>
+                <option value="adaccounts.html" selected>Ad Accounts</option>
+                <option value="adcampaigns.html">Ad Campaigns</option>
+                <option value="postlabels.html">Post Labels</option>
+                <option value="Comments.html">Comments & Replies</option>
+                <option value="jsons.html">JSONs</option>
+            </select>
+        </div>
+
+
+
+
+        <div class="post-container">
+            <ul id="adaccount">
+            </ul>
+        </div>
+
+
+
+
+
+
+        <script>
+
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                var response = JSON.parse(xhttp.responseText);
+                var adaccount = response.adaccount;
+
+               var output = '';
+                for(var i = 0; i < adaccount.length;i++){
+                    output +=  '<li>'
+
+                         + '<div class="adacc">'
+                    
+                            + '<h3>'+adaccount[i].name+ '</h3>' 
+                        
+
+                        
+                            + '<p>'+adaccount[i].id+ '</p>' 
+                            
+                        + '</div>'
+                                
+                    + '</li>'
+                }
+
+            document.getElementById('adaccount').innerHTML = output;
+            }
+        };
+        xhttp.open("GET", "../jsons/adaccount.json", true);
+        xhttp.send();
+
+        </script>
+    </body>
+
+</html>

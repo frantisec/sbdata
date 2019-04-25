@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+        <meta charset="utf-8">
+        <meta name="description" content="Names for social media design.">
+        <meta name="keywords" content="Socialbakers, Social profiles, users, ad accounts, names, data, placeholders">
+        <meta name="author" content="František Čanda">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SBKS Data polution</title>
+        <link rel="stylesheet" href="style/styyl.css" media="all">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    </head>
+
+<body>
+    <!-- Navigation -->
+    <div class="navi">
+        <div class="logo"><a href="index.html"><img src="img/sblogo.svg" /></a></div>
+        <div class="selectung">
+            <select id="touchsplashmenu" onchange="location.href=this.value">
+                <option value="index.html">Home</option>
+                <option value="fake.html">Fake Profiles</option>
+                <option value="real.html">Real Profiles</option>
+                <option value="users.html" selected>Users</option>
+                <option value="adaccounts.html">Ad Accounts</option>
+                <option value="adcampaigns.html">Ad Campaigns</option>
+                <option value="postlabels.html" >Post Labels</option>
+                <option value="comments.html">Comments & Replies</option>
+            </select>           
+        </div>
+     </div> 
+
+    <!-- Content -->
+    <div class="content">
+        <ul id="user">
+        </ul>
+    </div>
+
+  
+
+    <!-- JSON data -->
+
+    <script>
+
+            var xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function() {
+                if (this.readyState == 4 && this.status == 200) {
+                    var response = JSON.parse(xhttp.responseText);
+                    var user = response.user;
+    
+                   var output = '';
+                    for(var i = 0; i < user.length;i++){
+                        output +=  
+                        '<li>'
+                        + '<div class="avatar">'
+                            + '<img src= "' + user[i].avatar + '">' 
+                        + '</div>' 
+                        
+                        + '<div class="texts">'  
+                        + '<div class="names">'    
+                            + '<h3>'+user[i].name+ '</h3>' 
+                        + '</div>' 
+
+                        + '<div class="small">'    
+                            + '<p>'+user[i].role+ '</p>' 
+                        + '</div>'
+                        + '</div>' 
+
+                        + '</li>'
+                    }
+    
+                document.getElementById('user').innerHTML = output;
+                }
+            };
+            xhttp.open("GET", "jsons/users.json", true);
+            xhttp.send();
+    
+            </script>
+
+
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135023150-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-135023150-1');
+    </script>
+
+</body>
+
+</html>

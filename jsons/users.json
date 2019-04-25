@@ -1,0 +1,124 @@
+{
+    "user": [
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u01.png",
+            "name": "Alexander Becker",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u02.png",
+            "name": "Clara Bishop",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u03.png",
+            "name": "Sara Bishop",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u04.png",
+            "name": "Ivan Bowan",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u05.png",
+            "name": "Douglas Bradley",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u06.png",
+            "name": "Ruby Brady",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u07.png",
+            "name": "Glen Bryant",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u08.png",
+            "name": "Teresa Cartter",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u09.png",
+            "name": "Essie Chandler",
+            "role": "Account User"
+        },
+        
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u10.png",
+            "name": "Tommy Garner",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u11.png",
+            "name": "Charlotte Howell",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u12.png",
+            "name": "Cory Ingram",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u13.png",
+            "name": "Allice Jefferson",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u14.png",
+            "name": "Mario Jennings",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u15.png",
+            "name": "Alma Johnson",
+            "role": "Account User"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u16.png",
+            "name": "Essie Lamb",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u17.png",
+            "name": "Caroline Long",
+            "role": "Client (External User)"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u18.png",
+            "name": "Estelle Mathis",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u19.png",
+            "name": "Trevor Underwood",
+            "role": "Account Admin"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u20.png",
+            "name": "Derrick Welch",
+            "role": "Client (External User)"
+        }
+        
+    ]
+}

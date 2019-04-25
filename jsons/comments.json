@@ -1,0 +1,29 @@
+{
+    "comment": [
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u10.png",
+            "name": "Alexander Becker",
+            "text": "Seem to recall that edict went through the day after a nice speech about improving education and training for prisoners.",
+            "type": "http://frantisekcanda.eu/sbks/comment/comment.svg",
+            "sentiment": "http://frantisekcanda.eu/sbks/comment/positive.svg"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u19.png",
+            "name": "Jared Bishop",
+            "text": "Seem to recall that edict went through the day after a nice speech about improving education and training for prisoners.",
+            "type": "http://frantisekcanda.eu/sbks/comment/reply.svg",
+            "sentiment": "http://frantisekcanda.eu/sbks/comment/negative.svg"
+        },
+        
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/users/u12.png",
+            "name": "Douglas Bradley",
+            "text": "Seem to recall that edict went through the day after a nice speech about improving education and training for prisoners.",
+            "type": "http://frantisekcanda.eu/sbks/comment/comment.svg",
+            "sentiment": "http://frantisekcanda.eu/sbks/comment/neutral.svg"
+        }
+        
+    ]
+}

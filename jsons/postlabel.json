@@ -1,0 +1,99 @@
+{
+    "postlabel": [
+        {
+            "name": "Accessories",
+            "id": "Global"
+        },
+
+        {
+            "name": "Black Friday",
+            "visibility": "Global"
+        },
+
+        {
+            "name": "Chrismass",
+            "id": "Global"
+        },
+
+        {
+            "name": "Created by me",
+            "id": "private"
+        },
+        
+        {
+            "name": "event",
+            "id": "Global"
+        },
+
+        {
+            "name": "Fall Campaign",
+            "id": "Global"
+        },
+
+        {
+            "name": "Halloween",
+            "id": "Global"
+        },
+
+        {
+            "name": "Influencer",
+            "id": "Global"
+        },
+
+        {
+            "name": "Inspiration",
+            "id": "Private"
+        },
+
+        {
+            "name": "KickOff",
+            "id": "Global"
+        },
+
+        {
+            "name": "product",
+            "id": "Global"
+        },
+
+        {
+            "name": "promotion",
+            "id": "Global"
+        },
+
+        {
+            "name": "Spring Camapign",
+            "id": "Global"
+        },
+
+        {
+            "name": "Summer Campaign",
+            "id": "Global"
+        },
+
+        {
+            "name": "TO-DO",
+            "id": "private"
+        },
+
+        {
+            "name": "tutorial",
+            "id": "Global"
+        },
+
+        {
+            "name": "Valentines",
+            "id": "Global"
+        },
+
+        {
+            "name": "Winter Campaign",
+            "id": "Global"
+        },
+        
+        {
+            "name": "xmass",
+            "id": "private"
+        }
+        
+    ]
+}

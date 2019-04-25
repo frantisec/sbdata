@@ -1,0 +1,124 @@
+* {
+    margin: 0; 
+    padding: 0
+  }
+
+body {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 800px;   
+}
+
+.navi {
+    display: grid;
+    grid-template-columns: 30px 200px 150px;
+    height: 36px;
+    background-color:#fff;
+    box-shadow: 0px 2px 12px rgba(000, 000, 000, 0.0);
+}
+
+.logo {
+    margin: 8px 0 0 10px;
+}
+
+.selectung {
+    margin: 7px 0 0 10px;
+}
+
+.content {
+    margin-left: 12px;
+    width:400px;
+    overflow:hidden;
+    float: left;   
+}
+
+li {
+    list-style: none;
+    margin: 20px 0 0 0;
+    padding: 0;
+}
+
+ .avatar img {
+    float: left;
+    clear:left;
+    width:45px;
+    height:45px;
+    border:1px solid #F3F3F5;
+    margin-bottom: 6px;
+}
+
+.texts {
+    float:left;   
+    margin-left:10px;
+    padding: 0;
+    margin: 4px 0 0 8px;
+}
+
+.names {
+    padding-bottom: 3px;  
+}
+
+
+h3 {
+    font-size: 15px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+    color: #2F3744;
+}
+
+p {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #6B7883;
+}
+
+#user img {
+    border-radius: 50%;
+}
+
+.noimage li {
+    margin: 10px 10px; 
+    list-style: none;
+}
+
+.noimage h3 {
+    margin-bottom: 3px;
+}
+
+
+.card {
+    margin: 0 auto;
+    fill: #fff;
+    border: 1px solid #F3F3F5;
+    height: 30px;
+    margin: 6px 12px;
+    box-shadow: 0px 2px 6px rgba(000, 000, 000, 0.03);
+    padding: 10px 16px;
+    display: grid;
+    border-radius: 2px;
+    position: relative;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card button{
+    right: 12px;
+    top: 14px;
+    height: 24px;
+    width: 80px;  
+    position: absolute;
+}
+
+.olala h4 {
+    padding-top: 1px;
+    text-decoration: none;    
+}
+
+.olala p {
+    padding-top: 3px;
+    font-size: 11px;
+    text-decoration: none;
+}

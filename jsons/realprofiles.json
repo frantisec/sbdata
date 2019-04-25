@@ -1,0 +1,143 @@
+{
+    "real": [
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/sbks.png",
+            "name": "Socialbakers",
+            "url": "/socialbakers"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/adidasOriginals.png",
+            "name": "adidas Originals",
+            "url": "/adidasOriginals"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/amazon.jpg",
+            "name": "Amazon",
+            "url": "/amazon"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/bathbodyworks.png",
+            "name": "Bath & Body Works",
+            "url": "/bathbodyworks"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/bestbuy.jpg",
+            "name": "Best Buy",
+            "url": "/bestbuy"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/cola.jpg",
+            "name": "Coca-Cola",
+            "url": "/coca-cola-united-states"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/converse.jpg",
+            "name": "CONVERSE",
+            "url": "/converse"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/dior.jpg",
+            "name": "Dior",
+            "url": "/dior"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/discovery.jpg",
+            "name": "Discovery",
+            "url": "/discovery"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/ducktape.jpg",
+            "name": "Duck Tape",
+            "url": "/ducktape"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/eisenbergparis.jpg",
+            "name": "Eisenberg Paris",
+            "url": "/eisenbergparis"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/emirates.png",
+            "name": "Emirates",
+            "url": "/emirates"
+        },
+        
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/ferrari.png",
+            "name": "Ferrari",
+            "url": "/ferrari"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/hmart.png",
+            "name": "하이마트(Hi-mart)",
+            "url": "/himart"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/klm.jpg",
+            "name": "KLM Royal Dutch Airlines",
+            "url": "/klm"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/mercedes.jpg",
+            "name": "Mercedes-Benz",
+            "url": "/mercedes-benz"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/microsoft.png",
+            "name": "Microsoft",
+            "url": "/microsoft"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/monster.jpg",
+            "name": "Monster Energy",
+            "url": "/monsterenergy"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/nike.jpg",
+            "name": "Nike",
+            "url": "/nike"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/oreo.jpg",
+            "name": "Oreo",
+            "url": "/oreo"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/pampers.png",
+            "name": "Pampers",
+            "url": "/pampers"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/samsung.png",
+            "name": "Samsung",
+            "url": "/samsung"
+        },
+
+        {
+            "avatar": "http://frantisekcanda.eu/sbks/img_json/real/starbucks.png",
+            "name": "Starbucks",
+            "url": "/starbucks"
+        }
+
+    ]
+}
+

@@ -1,0 +1,58 @@
+{
+    "adcampaign": [
+        {
+            "name": "Post: This is Incredible",
+            "delivery": "Active",
+            "objective": "Video Views"
+        },
+
+        {
+            "name": "AW Native Articles",
+            "delivery": "Active",
+            "objective": "Video Views"
+        },
+
+        {
+            "name": "Top Secret 004 ",
+            "delivery": "Active",
+            "objective": "Video Views"
+        },
+
+        {
+            "name": "Boosted Post: 19836537 ",
+            "delivery": "Active",
+            "objective": "Page Post Engagement"
+        },
+
+        {
+            "name": "Top Secret 003 ",
+            "delivery": "Active",
+            "objective": "Video Views"
+        },
+
+        {
+            "name": "Top Secret 002 ",
+            "delivery": "Paused",
+            "objective": "none"
+        },
+
+        {
+            "name": "Boosted Post: 19836537 ",
+            "delivery": "Active",
+            "objective": "Page Post Engagement"
+        },
+
+        {
+            "name": "Top Secret 001 ",
+            "delivery": "Paused",
+            "objective": "Video Views"
+        },
+
+        {
+            "name": "Community Benefits 28",
+            "delivery": "Active",
+            "objective": "Page Likes"
+        }
+
+    ]
+}
